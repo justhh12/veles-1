@@ -26,10 +26,11 @@ More information at [veles.network](http://www.veles.network)
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th>
-<tr><td>Phase 1</td><td>1-25000</td><td>1 VLS</td>
-<tr><td>Phase 2</td><td>50001-75000</td><td>16 VLS</td>
-<tr><td>Phase 3</td><td>75001-250000</td><td>13 VLS</td>
-<tr><td>Phase 4</td><td>250001-150000</td><td>6 VLS</td>
-<tr><td>Phase 5</td><td>150001-200000</td><td>3 VLS</td>
+<tr><td>Phase 1</td><td>1-25 000</td><td>1 VLS</td>
+<tr><td>Phase 2</td><td>25 001-100 000</td><td>16 VLS</td>
+<tr><td>Phase 3</td><td>100 001-250 000</td><td>13 VLS</td>
+<tr><td>Phase 4</td><td>250 001-1 000 000</td><td>6 VLS</td>
+<tr><td>Phase 5</td><td>1 000 001-1 500 000</td><td>3 VLS</td>
+<tr><td>Halving</td><td>after 1 500 000 every 500 000blocks</td><td></td>
 </table>
 
