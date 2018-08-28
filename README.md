@@ -15,7 +15,7 @@ More information at [veles.network](http://www.veles.network)
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>200 VLS</td></tr>
 <tr><td>Max Coin Supply (PoS Phase, Pre Infinite)</td><td>12 499 800 VLS</td></tr>
-<tr><td>Premine</td><td>375 000 VLS*</td></tr>
+<tr><td>Premine</td><td>375 000 VLS</td></tr>
 <tr><td>Block maturity</td><td>60 minutes</td></tr>
 <tr><td>Masternode reward</td><td>74 %</td></tr> 
 <tr><td>POS reward</td><td>24 %</td></tr> 
