@@ -1,7 +1,5 @@
 Veles Core integration/staging repository
-=====================================
-
-[![Build Status](https://travis-ci.org/PIVX-Project/PIVX.svg?branch=master)](https://travis-ci.org/PIVX-Project/PIVX) [![GitHub version](https://badge.fury.io/gh/PIVX-Project%2FPIVX.svg)](https://badge.fury.io/gh/PIVX-Project%2FPIVX)
+=========================================
 
 Veles is decentralised opensource payment network focused on privacy. Unlike international bank transactions , transactions made on Veles network are fast , secure and with minimal fees. Veles Acts as a Marketplace and its Open Source software allows anyone to join the network both as a provider – selling unused network traffic or as a customer –  buying VPN service from other Veles network providers.
 - Anonymized transactions using Privatesend.
