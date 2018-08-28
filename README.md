@@ -31,6 +31,6 @@ More information at [veles.network](http://www.veles.network)
 <tr><td>Phase 3</td><td>100 001-250 000</td><td>13 VLS</td>
 <tr><td>Phase 4</td><td>250 001-1 000 000</td><td>6 VLS</td>
 <tr><td>Phase 5</td><td>1 000 001-1 500 000</td><td>3 VLS</td>
-<tr><td>Halving</td><td>after 1 500 000 every 500 000blocks</td><td></td>
+<tr><td>Halving</td><td>after 1 500 000 every 500 000</td><td>blocks</td>
 </table>
 
