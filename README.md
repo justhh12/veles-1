@@ -7,7 +7,7 @@ Veles is an open source crypto-currency focused on fast private transactions wit
 - Anonymized transactions using Privatesend.
 - Fast transactions featuring guaranteed zero confirmation transactions using SwiftNode.
 
-More information at [veles.io](http://www.veles.io)
+More information at [veles.network](http://www.veles.network)
 
 ### Coin Specs
 <table>
